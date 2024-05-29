@@ -55,3 +55,5 @@ testing/src/project_version.h
 .__tmp.log
 .check_syntax.tmp
 .check_syntax2.tmp
+
+json_docs/
